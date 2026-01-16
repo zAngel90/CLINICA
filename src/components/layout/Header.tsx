@@ -28,7 +28,7 @@ export const Header = () => {
   const links = [
     { name: 'Inicio', path: '/' },
     { name: 'Armonización Facial', path: '/armonizacion' },
-    { name: 'Neurología', path: '/electroencefalogramas' },
+    { name: 'Neurofisiología', path: '/electroencefalogramas' },
     { name: 'Ozonoterapia', path: '/ozono' },
   ];
 

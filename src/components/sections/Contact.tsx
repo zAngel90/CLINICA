@@ -72,18 +72,6 @@ _Mensaje enviado desde nervoscenterclinic.com_`;
                     </div>
                   </a>
 
-                  <a 
-                    href="tel:+50769639626"
-                    className="flex items-center gap-4 md:gap-5 hover:bg-white/5 p-3 -m-3 rounded-xl transition-all group"
-                  >
-                    <div className="w-10 h-10 md:w-12 md:h-12 rounded-full bg-white/10 flex items-center justify-center backdrop-blur-sm group-hover:bg-white/20 transition-all">
-                      <Phone className="w-5 h-5 md:w-6 md:h-6 text-teal-400" />
-                    </div>
-                    <div>
-                      <p className="text-[10px] md:text-xs text-medical-200 uppercase tracking-wider font-semibold">Llamadas</p>
-                      <p className="text-lg md:text-xl font-bold text-white group-hover:text-teal-300 transition-colors">+507 6963-9626</p>
-                    </div>
-                  </a>
                 </div>
               </div>
             </div>

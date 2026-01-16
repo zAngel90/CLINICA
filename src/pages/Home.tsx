@@ -17,7 +17,7 @@ export const Home = () => {
       img: "https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?q=80&w=2070&auto=format&fit=crop"
     },
     {
-      title: "Neurología Clínica",
+      title: "Neurofisiología Clínica",
       desc: "Diagnósticos precisos con tecnología de electroencefalograma digital.",
       icon: Activity,
       path: "/electroencefalogramas",

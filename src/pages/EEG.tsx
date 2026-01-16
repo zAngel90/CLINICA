@@ -36,7 +36,7 @@ export const EEG = () => {
     <div className="animate-fade-in">
       <Hero 
         title="Electroencefalogramas Digitales"
-        subtitle="Neurología Clínica"
+        subtitle="Neurofisiología Clínica"
         description="Estudios neurológicos de alta precisión para el diagnóstico y seguimiento de condiciones cerebrales. Tecnología avanzada y calidez humana."
         image="https://images.unsplash.com/photo-1579684385127-1ef15d508118?q=80&w=2080&auto=format&fit=crop"
         ctaText="Agendar Estudio"
