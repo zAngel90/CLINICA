@@ -39,7 +39,7 @@ export const FacialHarmonization = () => {
         subtitle="Estética Médica"
         description="Descubre la mejor versión de ti misma con nuestros tratamientos de armonización facial. Equilibrio, simetría y belleza natural en manos de expertos médicos."
         image="https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?q=80&w=2070&auto=format&fit=crop"
-        benefits={['Botox y Rellenos', 'Perfilamiento', 'Bioestimuladores']}
+        benefits={['Rellenos Faciales', 'Perfilamiento', 'Bioestimuladores']}
         onCtaClick={() => document.getElementById('contact')?.scrollIntoView({ behavior: 'smooth' })}
       />
       
